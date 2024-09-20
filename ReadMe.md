@@ -5,9 +5,12 @@
 	python_version >= 3.12
 
 To install these requirements you need to run following command:
-	pip install streamlit
+	
+ 	pip install streamlit
+ 
 If dosent work or gives error you may try to change version after loading python 3.12 then running command:
-	pip install streamlit == 1.37.1
+	
+ 	pip install streamlit == 1.37.1
 
 
 ### Configuration
