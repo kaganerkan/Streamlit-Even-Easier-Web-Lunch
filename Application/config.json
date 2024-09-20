@@ -1,0 +1,11 @@
+{
+    "application":{
+        "applicationName":"Example Title",
+        "pageIcon":"🌐",
+        "layout":"wide",
+        "initialSidebarState":"expanded"
+    },
+    "deployRules":{
+        "pagesFolderAddress":"pages"
+    }
+}

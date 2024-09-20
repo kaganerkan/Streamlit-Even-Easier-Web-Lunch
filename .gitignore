@@ -1,0 +1,28 @@
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore compiled output
+dist/
+build/
+out/
+
+# Ignore IDEs and editors configuration files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+
+# Ignore dependency directories for Python projects
+__pycache__/
+*.py[cod]
+*.pyo
