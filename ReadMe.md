@@ -1,7 +1,6 @@
 # Streamlit Even Easier Web Lunch (SEEWL)
 ## How to use it?
 ### Requirements
-> [!Requirements.txt]
 	streamlit == 1.37.1
 	python_version >= 3.12
 
