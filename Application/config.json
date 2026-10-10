@@ -1,6 +1,6 @@
 {
     "application":{
-        "applicationName":"Example Title",
+        "applicationName":"My Website",
         "pageIcon":"🌐",
         "layout":"wide",
         "initialSidebarState":"expanded"
